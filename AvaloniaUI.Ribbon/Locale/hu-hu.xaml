@@ -1,0 +1,10 @@
+﻿<ResourceDictionary xmlns="https://github.com/avaloniaui" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:sys="clr-namespace:System;assembly=netstandard">
+    <sys:String x:Key="AvaloniaRibbon.File">Fájl</sys:String>
+    <sys:String x:Key="AvaloniaRibbon.Recent">Legutóbbi elemek</sys:String>
+    <sys:String x:Key="AvaloniaRibbon.MinimizeRibbon">Menüszalag kis méretűre állítása</sys:String>
+    <sys:String x:Key="AvaloniaRibbon.GetHelp">Súgó</sys:String>
+    <sys:String x:Key="AvaloniaRibbon.AddToQAT">Hozzáadás a gyorselérési eszköztárhoz</sys:String>
+    <sys:String x:Key="AvaloniaRibbon.CustomizeQAT">Gyorselérési eszköztár testreszabása</sys:String>
+    <sys:String x:Key="AvaloniaRibbon.MoreQATCommands">Több művelet...</sys:String>
+</ResourceDictionary>
